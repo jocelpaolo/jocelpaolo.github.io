@@ -19,7 +19,7 @@ get_includes('banner');
 	<title><?php //echo get_bloginfo('name');?>CompanyName</title>
 
 
-	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/hamburgers.min.css">
 	<link rel="stylesheet" href="css/media.css">
 	<link rel="stylesheet" href="css/rslides.min.css">
