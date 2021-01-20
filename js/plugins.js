@@ -137,6 +137,4 @@ $(document).ready(function(){
 		// End (AddThis) Plugins
 	});
 
-	new WOW().init();
-
 });

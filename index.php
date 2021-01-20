@@ -35,9 +35,9 @@ get_includes('banner');
   <header>
     <div class="wrapper">
 			<div class="header_con">
-        <div class="main_logo">
-          <a href="<?php //echo get_home_url(); ?>"><figure><img src="images/main_logo.png" alt="<?php //echo get_bloginfo('name');?>"/></figure></a>
-        </div>
+				<div class="main_logo">
+				<a href="<?php //echo get_home_url(); ?>"><figure><img src="images/main_logo.png" alt="<?php //echo get_bloginfo('name');?>"/></figure></a>
+				</div>
 
 				<div class="head_info">
 					<div class="header_info">
@@ -110,9 +110,9 @@ get_includes('banner');
 
 				<div class="slider">
 					<ul class="rslides">
+						<li><figure><img src="images/slider/1.jpg" alt=""/></figure></li>
 						<li><figure><img src="images/slider/2.jpg" alt=""/></figure></li>
-						<li><figure><img src="images/slider/2.jpg" alt=""/></figure></li>
-						<li><figure><img src="images/slider/2.jpg" alt=""/></figure></li>
+						<li><figure><img src="images/slider/3.jpg" alt=""/></figure></li>
 					</ul>
 				</div>
 
